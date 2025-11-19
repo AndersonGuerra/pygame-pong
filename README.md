@@ -14,7 +14,7 @@ Um jogo Pong simples desenvolvido em **Python + Pygame**, usado para demonstraç
 - FPS controlado com `pygame.time.Clock`
 ---
 
-## 📌 Pré-requisitos
+## Pré-requisitos
 
 - Python 3.8+
 - Pygame
